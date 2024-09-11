@@ -1,4 +1,4 @@
-# Bar Chart Race for CO2 Emissions
+# Bar Chart Race for CO2 Emissions in kiloton (kt)
 
 ## Overview
 This Python script creates a bar chart race to visualize the top 15 countries with the highest CO2 emissions from 1960 to 2019. The data is read from a CSV file and is processed into an animated bar chart race using the `bar_chart_race` library.
